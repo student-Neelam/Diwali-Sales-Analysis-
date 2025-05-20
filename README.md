@@ -17,6 +17,22 @@
 ## Python File of Analysis the data
 Analysis file <a href="https://github.com/student-Neelam/Diwali-Sales-Analysis-/blob/main/Diwali_Sales_Analysis.ipynb">Analysis file</a>
 
+## Process:
+• Import the data
+Load the Diwali sales CSV file using Python and pandas.
+
+• Clean the data
+Remove empty values, fix incorrect data types, and drop unnecessary columns.
+
+• Explore the data
+Analyze customer details like age, gender, occupation, and state using pandas.
+
+• Visualize the data
+Create bar charts, pie charts, and histograms using matplotlib and seaborn to find useful trends.
+
+• Find key insights
+Identify top customer groups, best-selling products, and states with the most sales.
+
 ## Project Insights:
 • Most buyers are married women aged 26–35 years.
 
